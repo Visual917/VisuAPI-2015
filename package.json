@@ -1,0 +1,22 @@
+{
+  "name": "visuapi-2015",
+  "version": "1.0.0",
+  "description": "First Node.JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Visual917/VisuAPI-2015.git"
+  },
+  "author": "Visual917",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Visual917/VisuAPI-2015/issues"
+  },
+  "homepage": "https://github.com/Visual917/VisuAPI-2015#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
