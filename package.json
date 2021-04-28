@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Visual917/VisuAPI-2015#readme",
   "dependencies": {
     "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
